@@ -1,0 +1,20 @@
+
+
+body
+{
+    
+    background: rgba(121, 121, 199, 0.637);
+    color: #380f0f;
+}
+#myName 
+{
+    margin: auto;
+    width: 20%;
+    border: 5px;
+    border-color: red;
+    color: blue;
+}
+.facts
+{
+    color: green;
+}
