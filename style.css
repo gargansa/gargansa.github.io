@@ -1,26 +1,39 @@
 
-* {
-    box-sizing: border-box;
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: 40px 100px 40px;
 }
 
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+.header {
+    grid-column: span 12;
+    background-color: blue;
 }
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+.menu {
+    grid-column: span 4;
+    background-color: yellow;
 }
 
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
+.content {
+    grid-column: span 8;
+    background-color: red;
+}
+
+.footer {
+    grid-column: span 12;
+    background-color: green;
+}
+
+@media screen and (max-width: 680px) {
+    .header {
+        grid-column: span 6;
+    }
+    .menu {
+        grid-row: 1;
+        grid-column: span 6;
+    }
+    .content {
+        grid-column: span 12;
     }
 }
