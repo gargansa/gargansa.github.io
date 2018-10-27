@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #b52fc4;
 }
 
 @media (min-width: 992px) {
@@ -180,7 +180,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: rgb(12, 14, 158) !important;
 }
 
 a {
@@ -188,5 +188,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #708ff5;
+  color: #5c7add;
 }
