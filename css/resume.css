@@ -190,3 +190,21 @@ a {
 a:hover, a:focus, a:active {
   color: #5c7add;
 }
+
+/* border just to show what size the canvas is for the object */
+/* background image the location of the svg */
+/* the actual width and height you want the object to be */
+.blender{
+    /* border:solid 1px #037ffa; */
+    display:block;
+    top: 0.2em;
+    margin-left:-1.6em;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:90%;
+    display:inline-block;
+    background-image: url('./blender.svg');
+    fill: #aa00ff;
+    height: 20px;
+    width: 20px;
+}

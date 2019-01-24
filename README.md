@@ -1,3 +1,40 @@
+cmd shift p search files
+
+About
+Projects
+Skills - Related to coding
+    Languages
+    Frameworks
+    Databases
+    Libraries
+    Misc (loosely related skills that can be tied to coding)(management, customer service, team management)
+Education
+Experience - Developed methods for training new employees. then inventory (focus on             teambuilding and computer related things) - bullet point these abilities
+    Trained employees webbased computer pos system. Managed inventory through inhouse computer software.
+    same thing with quiznos flesh out and 
+
+Timeline for device repair
+2013 broke thunderbolt wasnt fixing phones at the store
+March 2014 became batteries plus bulbs
+july 2014 jake died
+sept 2014 released hexwordz on android
+march 2015 released hexwordz on mac
+May 2015 went to cancun couldnt fixed galaxy s4 because of water damage but know how to take apart
+
+
+
+Intro
+Currently enrolled in montana code school. Due to graduate in March. Previous computer science student at MSU. Developed a plugin for 3d printer mixing nozzles. Batteries plus pieces that relate to computer tech. and customer service.
+
+Include Montana Code School
+
+
+Include Device Repair Certs and experience
+Lead Tech. for repairs on Apple, samsung, motorola, google devices
+
+
+
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
