@@ -16,7 +16,6 @@ Experience - Developed methods for training new employees. then inventory (focus
 Timeline for device repair
 2013 broke thunderbolt wasnt fixing phones at the store
 March 2014 became batteries plus bulbs
-july 2014 jake died
 sept 2014 released hexwordz on android
 march 2015 released hexwordz on mac
 May 2015 went to cancun couldnt fixed galaxy s4 because of water damage but know how to take apart
