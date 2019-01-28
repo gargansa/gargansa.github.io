@@ -1,5 +1,13 @@
 cmd shift p search files
 
+
+What i need to do.
+Finish web resume info only
+Convert to paper resume
+Verify hexwordz is still valid
+Apply for internship
+
+
 About
 Projects
 Skills - Related to coding
