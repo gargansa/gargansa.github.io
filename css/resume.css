@@ -245,3 +245,28 @@ a:hover, a:focus, a:active {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: rgba(0, 0, 242, 0.5);}
+
+
+.gist {
+  overflow: none;
+}
+.gist :first-child{
+  max-width: 100%;
+}
+.gist-data {
+  /* max-height: 400px; */
+  /* max-width: fit-content; */
+  overflow: none;
+}
+.gist .blob-wrapper.data {
+  max-height: 200px;
+  max-width: 500px;
+  overflow: scroll;
+}
+.gist-meta{
+  /* affect the bottom bar */
+}
+.gist-file{
+  max-height: 200px;
+  max-width: 500px;
+}
