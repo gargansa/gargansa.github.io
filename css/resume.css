@@ -265,8 +265,25 @@ a:hover, a:focus, a:active {
 }
 .gist-meta{
   /* affect the bottom bar */
+  visibility: hidden;
 }
 .gist-file{
   max-height: 200px;
   max-width: 500px;
+}
+
+.float-left
+{
+  max-width: 50%;
+}
+
+.float-right
+{
+  max-width: 50%;
+}
+
+.wrapper
+{
+  
+  width: 500px;
 }
