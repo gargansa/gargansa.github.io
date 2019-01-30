@@ -284,6 +284,7 @@ a:hover, a:focus, a:active {
   max-width: 500px;
 }
 
+
 .float-left
 {
   max-width: 50%;
@@ -294,8 +295,3 @@ a:hover, a:focus, a:active {
   max-width: 50%;
 }
 
-.wrapper
-{
-  
-  width: 500px;
-}

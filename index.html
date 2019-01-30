@@ -77,7 +77,8 @@
             <li>Previous computer science student at Montana State University.</li>
             <li>Proficient in Python, Javascript, CSS3, HTML5, React, Adonis, Bootstrap.</li>
             <li>Designed a single player game called Hexwordz that is available on Google Play.</li>
-            <li>Led development with a group of enthusiasts to produce a post processing plugin for the opensource
+            <li>Led development with a group of 3d printing enthusiasts to produce a post processing plugin for the
+              opensource
               software known as Cura.</li>
             <li>Nine years of experience at Batteries Plus Bulbs in device repair, batteries, lighting, management,
               employee training, and customer service. </li>
@@ -108,13 +109,36 @@
           <li class="wrapper">
             <i class="fa-li fab fa-google-play text-blue"></i>
             <button class="dropbtn">Hexwordz</button>
-            <p>
-              Created a single player word game called Hexwordz. Designed with GameMaker Studio. 
-              The game generates a set of letters based on the percentage that those letters exist in the dictionary. This prevents a frequency of Q's and Z's from appearing. 
-              The base dictionary was created from "The ENABLE dictionary" Enhanced North American Benchmark Lexicon. Additional words were added through a simple script i wrote that would scan public domain books. It would add new words to a seperate list if they were not already in the dictionary, the smaller list was easier to review and combine.
-              The game also does a check to see if any words remain on the board. This is handled by a recursive method that checks each tile to see if a neighbor creates a 2 letter word. If it gets through all the tiles without a solution it then checks for permutations of 3 letter words and then 4 letter and onward until it runs out of tiles.
-              
-            </p>
+            <ul>
+              <li>
+                Created a single player word game called Hexwordz. Designed with GameMaker Studio.
+              </li>
+              <li>
+                Hexwordz generates a set of letters based on the percentage that those letters exist in the dictionary.
+                This prevents a frequency of Q's and Z's from appearing.
+              </li>
+              <li>
+                The base dictionary was created from "The ENABLE dictionary" Enhanced North American Benchmark Lexicon.
+                I also wrote a script that could scan a document and check for words not in the dictionary and compile
+                them into a list for adding to the dictionary.
+              </li>
+              <li>
+
+                Hexwordz has an algorithm to determine if any words remain on the board, which consists of two parts.
+                <ul style="list-style: none">
+                  <li>
+                    A check to see if a neighbor tile has any potential matches in the dictionary similar to predictive
+                    text.
+                  </li>
+                  <li>
+                    A recursive call based on the length of word this allows the code to quickly search for shorter
+                    words in each tile and if none are found it can search for larger words quickly.
+                  </li>
+                </ul>
+              </li>
+
+
+            </ul>
             <div>
               <img height="200" src="https://lh3.googleusercontent.com/w87PTM7TosD8SZfKhHsSKq7snizwu5KcrnbNUrCeUuYSOZV0E5cVW2teBFAWYURVN4y8=w720-h310-rw"
                 alt="hexwordz game image 1" />
@@ -146,9 +170,12 @@
             <p>
               Code can be found on my <a href="https://github.com/gargansa/MELT">github <i class="fab fa-github"></i></a>
             </p>
-            <blockquote class="imgur-embed-pub" lang="en" data-id="a/DA9S09g"><a href="//imgur.com/DA9S09g">MELT Prints</a></blockquote>
-            <script async height="300" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-            <!-- <script src="https://gist.github.com/gargansa/46b1481cfe2b39c7243326e6b8fd11e2.js"></script> -->
+            <div>
+              <blockquote class="imgur-embed-pub" lang="en" data-id="a/DA9S09g"><a href="//imgur.com/DA9S09g">MELT
+                  Prints</a></blockquote>
+              <script async height="300" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+              <!-- <script src="https://gist.github.com/gargansa/46b1481cfe2b39c7243326e6b8fd11e2.js"></script> -->
+            </div>
           </li>
 
           <hr class="m-5">
