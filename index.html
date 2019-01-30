@@ -109,7 +109,11 @@
             <i class="fa-li fab fa-google-play text-blue"></i>
             <button class="dropbtn">Hexwordz</button>
             <p>
-              Created a single player word game called Hexwordz. Designed with GameMaker Studio.
+              Created a single player word game called Hexwordz. Designed with GameMaker Studio. 
+              The game generates a set of letters based on the percentage that those letters exist in the dictionary. This prevents a frequency of Q's and Z's from appearing. 
+              The base dictionary was created from "The ENABLE dictionary" Enhanced North American Benchmark Lexicon. Additional words were added through a simple script i wrote that would scan public domain books. It would add new words to a seperate list if they were not already in the dictionary, the smaller list was easier to review and combine.
+              The game also does a check to see if any words remain on the board. This is handled by a recursive method that checks each tile to see if a neighbor creates a 2 letter word. If it gets through all the tiles without a solution it then checks for permutations of 3 letter words and then 4 letter and onward until it runs out of tiles.
+              
             </p>
             <div>
               <img height="200" src="https://lh3.googleusercontent.com/w87PTM7TosD8SZfKhHsSKq7snizwu5KcrnbNUrCeUuYSOZV0E5cVW2teBFAWYURVN4y8=w720-h310-rw"
@@ -128,7 +132,7 @@
             </div>
           </li>
 
-          <hr class="m-0">
+          <hr class="m-5">
 
           <li>
             <i class="fa-li fab fa-python text-blue"></i>
@@ -147,7 +151,7 @@
             <!-- <script src="https://gist.github.com/gargansa/46b1481cfe2b39c7243326e6b8fd11e2.js"></script> -->
           </li>
 
-          <hr class="m-0">
+          <hr class="m-5">
 
           <li>
             <i class="fa-li fab fa-codepen text-blue"></i>
@@ -172,7 +176,7 @@
             <!--  -->
           </li>
 
-          <hr class="m-0">
+          <hr class="m-5">
 
           <li>
             <i class="blender text-blue"></i>
@@ -180,12 +184,12 @@
             <!--Thingiverse Embed-->
             <p>Created a replacement part for the M3D Promega printer. Designed in Blender, it is the most complex
               design i have created yet.</p>
-            <div position="relative" style="max-width:500px; border:1px solid red">
-              <div position="absolute" style="max-width:50%; overflow:hidden; float:left; border:1px solid blue">
+            <div class="blender-box">
+              <div class="blender-image">
                 <img src="https://cdn.thingiverse.com/renders/ef/17/25/7b/78/392e47046799ac00e8425d384d21c3e8_preview_featured.jpg">
               </div>
-              <div position="absolute" style="max-width:50%; overflow:hidden; float:left; border:1px solid blue">
-                <img src="https://cdn.thingiverse.com/renders/ef/17/25/7b/78/392e47046799ac00e8425d384d21c3e8_preview_featured.jpg">
+              <div class="blender-image">
+                <img src="https://cdn.thingiverse.com/renders/75/da/54/54/40/e40128854231cf98eea60302b5a5b479_preview_featured.jpg">
               </div>
             </div>
             <!--  -->

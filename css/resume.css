@@ -209,6 +209,18 @@ a:hover, a:focus, a:active {
     width: 20px;
 }
 
+.blender-box{
+  display:block;
+}
+.blender-image{
+  width: 50%;
+  height: 50%;
+  float: left;
+}
+.blender-image img{
+  width: 100%;
+}
+
 /* Dropdown Button */
 .dropbtn {
   /* padding: 16px; */
