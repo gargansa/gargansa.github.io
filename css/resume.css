@@ -210,15 +210,51 @@ a:hover, a:focus, a:active {
 }
 
 .blender-box{
+  /* border: 1px solid blue; */
+  position: relative;
   display:block;
+  width: 100%;
+  height: 300px;
 }
-.blender-image{
-  width: 50%;
-  height: 50%;
+
+
+.img1{
+  background-image: url(https://cdn.thingiverse.com/renders/75/da/54/54/40/e40128854231cf98eea60302b5a5b479_preview_featured.jpg);
+  background-size: cover;
+  resize: both;
+  overflow: scroll;
+  width: 25%;
+  height: 300px;
   float: left;
 }
-.blender-image img{
-  width: 100%;
+
+
+.img2{
+  background-image: url(https://cdn.thingiverse.com/renders/75/da/54/54/40/e40128854231cf98eea60302b5a5b479_preview_featured.jpg);
+  background-size: cover;
+  resize: both;
+  overflow: scroll;
+  width: 25%;
+  height: 300px;
+  float: left;
+}
+.img3{
+  background-image: url(https://cdn.thingiverse.com/renders/75/da/54/54/40/e40128854231cf98eea60302b5a5b479_preview_featured.jpg);
+  background-size: cover;
+  resize: both;
+  overflow: scroll;
+  width: 25%;
+  height: 300px;
+  float: left;
+}
+.img4{
+  background-image: url(https://cdn.thingiverse.com/renders/75/da/54/54/40/e40128854231cf98eea60302b5a5b479_preview_featured.jpg);
+  background-size: cover;
+  resize: both;
+  overflow: scroll;
+  width: 25%;
+  height: 300px;
+  float: left;
 }
 
 /* Dropdown Button */
