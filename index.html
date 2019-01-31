@@ -29,7 +29,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Robert Crum</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile img-thumbnail mx-auto mb-2" src="img/profile.jpg" alt="">
+        <img class="img-profile mx-auto mb-2" src="img/profile.jpg" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -133,8 +133,6 @@
                   </li>
                 </ul>
               </li>
-
-
             </ul>
             <div style="max-width:100%; max-height: 300px;" class="mb-1">
               <img style="max-height: 100%; max-width: 24%" src="https://lh3.googleusercontent.com/w87PTM7TosD8SZfKhHsSKq7snizwu5KcrnbNUrCeUuYSOZV0E5cVW2teBFAWYURVN4y8=w720-h310-rw"
@@ -158,15 +156,22 @@
           <li>
             <i class="fa-li fab fa-python text-blue"></i>
             <button class="dropbtn">MELT - Multi-Extruder Layering Tool</button>
-            <p>
-              Led developement to build a python plugin for an opensource software known as Cura. The project enabled
-              3d printers such as the Promega and Crane made by M3D, mix
-              plastics within the nozzle at varying rates. The results create gradients and other effects through the
-              height of the print.
-            </p>
-            <p>
-              Code can be found on my <a href="https://github.com/gargansa/MELT">github <i class="fab fa-github"></i></a>
-            </p>
+            <ul>
+              <li>
+                Led development to build a python plugin for an open source software known as Cura.
+              </li>
+              <li>
+                The project enabled 3d printers such as the Promega and Crane made by M3D, mix plastics within the
+                nozzle at varying rates.
+              </li>
+              <li>
+                The results create gradients and other effects through the height of the print.
+              </li>
+              <li>
+                Code can be found on my <a href="https://github.com/gargansa/MELT">github <i class="fab fa-github"></i></a>
+              </li>
+
+            </ul>
             <div>
               <blockquote class="imgur-embed-pub" lang="en" data-id="a/DA9S09g"><a href="//imgur.com/DA9S09g">MELT
                   Prints</a></blockquote>
@@ -180,14 +185,15 @@
           <li>
             <i class="fa-li fab fa-codepen text-blue"></i>
             <button class="dropbtn">Codepen Recursive Tree</button>
-            <p>
-              Created a recursive tree generator. The code works by recursivly calling a createBranch function 2-3
-              times. Each time reducing the size of the branch which doubles as an exit strategy for the recursive
-              call, and gives the tree the effect of smaller branches towards the tips. The colors are randomly
-              generated initially from a limited range, restraining them from very dark and very light colors. At the
-              end of each branch a leaf is drawn based on a rotated color where rgb values become gbr values, this
-              ensures the leaves stand out.
-            </p>
+            <ul>
+              <li>Created a recursive tree generator.</li>
+              <li>Initially it calls a function called createBranch, with a tastefully controlled random color.</li>
+              <li>Within createBranch it draw the branch and recursivly call 2-3 more createBranch functions.</li>
+              <li>Each time we call createBranch it reduces the branch length, adjusts the color slightly, and picks a
+                new random angle.</li>
+              <li>Once the branch length is small enough it stops creating branches and places a leaf with a color
+                composed of rotated rgb values on the end.</li>
+            </ul>
             <!--Codepen Embed-->
             <p class="codepen" data-height="412" data-theme-id="0" data-default-tab="result" data-user="gargansa"
               data-slug-hash="zMOZaK" data-preview="true" style="height: 412px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;"
@@ -346,7 +352,7 @@
             <div class="subheading mb-3">Batteries Plus Bulbs</div>
             <ul>
               <li>
-                Trained new employees to use webbased computer Point of Sale.
+                Trained new employees to use web based computer Point of Sale.
               </li>
               <li>
                 Developed methods for training new employees with examples they can relate with.

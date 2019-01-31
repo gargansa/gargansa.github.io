@@ -1,11 +1,3 @@
-cmd shift p search files
-
-
-What i need to do.
-Finish web resume info only
-Convert to paper resume
-Apply for internship
-
 
 About
 Projects
@@ -20,23 +12,17 @@ Experience - Developed methods for training new employees. then inventory (focus
     Trained employees webbased computer pos system. Managed inventory through inhouse computer software.
     same thing with quiznos flesh out and 
 
-Timeline for device repair
-2013 broke thunderbolt wasnt fixing phones at the store
-March 2014 became batteries plus bulbs
-sept 2014 released hexwordz on android
-march 2015 released hexwordz on mac
-May 2015 went to cancun couldnt fixed galaxy s4 because of water damage but know how to take apart
+
+Self-motivated, self-reliant, internet savvy and resourceful enough to source solutions on their own
+High technical aptitude
+Experience with code writing, Python or scripting language experience is a plus
+Troubleshooting skills
+Aptitude to take project ownership and under general guidance, be able to make small decisions about the project.
+Trust their own skills and abilities enough to see a project through to the end making the necessary small decisions along the way
+Responsibilities and Activities
+Work within our design team of Software Engineers to enhance, maintain, and create scripts
 
 
-
-Intro
-Currently enrolled in montana code school. Due to graduate in March. Previous computer science student at MSU. Developed a plugin for 3d printer mixing nozzles. Batteries plus pieces that relate to computer tech. and customer service.
-
-Include Montana Code School
-
-
-Include Device Repair Certs and experience
-Lead Tech. for repairs on Apple, samsung, motorola, google devices
 
 
 
