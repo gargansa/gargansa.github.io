@@ -1,103 +1,46 @@
+# Getting Started with Create React App
 
-About
-Projects
-Skills - Related to coding
-    Languages
-    Frameworks
-    Databases
-    Libraries
-    Misc (loosely related skills that can be tied to coding)(management, customer service, team management)
-Education
-Experience - Developed methods for training new employees. then inventory (focus on             teambuilding and computer related things) - bullet point these abilities
-    Trained employees webbased computer pos system. Managed inventory through inhouse computer software.
-    same thing with quiznos flesh out and 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-Self-motivated, self-reliant, internet savvy and resourceful enough to source solutions on their own
-High technical aptitude
-Experience with code writing, Python or scripting language experience is a plus
-Troubleshooting skills
-Aptitude to take project ownership and under general guidance, be able to make small decisions about the project.
-Trust their own skills and abilities enough to see a project through to the end making the necessary small decisions along the way
-Responsibilities and Activities
-Work within our design team of Software Engineers to enhance, maintain, and create scripts
+In the project directory, you can run:
 
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+### `npm run build`
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Preview
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+### `npm run eject`
 
-## Status
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Download and Installation
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
-* Install via npm: `npm i startbootstrap-resume`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Usage
+## Learn More
 
-### Basic Usage
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Troubleshooting and Help
-
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
-
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+To learn React, check out the [React documentation](https://reactjs.org/).
