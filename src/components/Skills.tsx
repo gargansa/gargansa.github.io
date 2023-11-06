@@ -25,53 +25,14 @@ function Skills() {
         <div className="mt-3 text-center">
         <ul className="text-left" style={{listStyleType: 'none', padding: '0', margin:'0'}}>
           <li><b>Problem Solving and Algorithm Design:</b> Proficient in dissecting intricate problems into manageable parts, facilitating effective problem resolution.</li>
-          <li><b>Version Control:</b> Proficient using git.<FontAwesomeIcon icon={faGithub} /></li>
-          <li><b>Full-Stack Development:</b> </li>
-          <li><b>Database Management:</b> Used Transact SQL for 3 years</li>
+          <li><b>Version Control:</b> Git</li>
+          <li><b>Full-Stack Development:</b> React, C#, ASP, TypeScript, JavaScript, Python</li>
+          <li><b>Database Management:</b> Transact SQL (3 years)</li>
+          <li><b>Tools:</b> Azure, SourceTree, Confluence, Jira, Visual Studio, Cygwin, PuTTY</li>
+          <li><b>Operating Systems:</b> Linux, Windows, Mac OS</li>
         </ul>
       </div>
 
-
-        <div className="subheading mb-3">Operating Systems, Programming Languages, Frameworks</div>
-        <ul style={{listStyleType:'none', padding: '0'}}> 
-           <li>
-            Proven ability to effectively navigate and troubleshoot various operating systems.
-            </li>
-            <li>
-            including <FontAwesomeIcon icon={faLinux} /> Linux, <FontAwesomeIcon icon={faWindows} /> Windows, and <FontAwesomeIcon icon={faApple} /> Mac OS
-          </li>
-          <br></br>
-          <li>
-            3 years professional experience
-            </li>
-          <li>
-            <FontAwesomeIcon icon={faReact} /> React
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faCode} /> C#
-          </li>          
-          <li>
-            <FontAwesomeIcon icon={faCode} /> ASP
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faCode} /> TypeScript
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faJs} /> Javascript
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faNode} /> Node.js
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faNpm} /> NPM
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faPython} /> Python
-          </li>
-          <li>
-            <FontAwesomeIcon icon={faTerminal} /> Terminal
-          </li>
-        </ul> 
       </div>
   </section>
   </div>

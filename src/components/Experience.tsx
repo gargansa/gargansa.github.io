@@ -55,10 +55,7 @@ function Experience() {
             Main duties:
             <ul>
               <li>
-                Triaged incoming tickets including production notifications and customer requests.
-              </li>
-              <li>
-                Assisted internal employees remotely and locally with VPN troubleshooting as well software and hardware issues.
+                Triaged incoming tickets, assisted with VPN troubleshooting, and created BASH and Python scripts.
               </li>
               <li>
                 Tested and replaced rack mount and desktop uninterrupted power supply batteries and units.
@@ -67,7 +64,7 @@ function Experience() {
                 Create BASH and Python scripts to address and simplify re-occurring problems.
               </li>
               <li>
-                Worked together with team to find solutions, determine root cause, and resolve issues.
+                Maintained and improved documentation for recurring issues.
               </li>
             </ul>
             Additional Roles:
@@ -81,9 +78,6 @@ function Experience() {
               </li>
               <li>
                 Maintain/Improve documentation for commonly occurring issues.
-              </li>
-              <li>
-                Primary escalation point for VPN connection issues.
               </li>
             </ul>
           </div>
@@ -99,16 +93,10 @@ function Experience() {
             Main Duties:
             <ul>
               <li>
-              Primary escalation point for any challenges that arise.
-              </li>
-              <li>
-              Ordered product replenishments including special orders through multiple vendors.
+              Managed product replenishments, conducted inventory counts, and streamlined employee training.
               </li>
               <li>
               Conducted regular physical inventory counts to verify on-hand stock levels and reconcile them with inventory records.
-              </li>
-              <li>
-              Developed methods to streamline the training process for new employees, resulting in cost savings and improved training consistency.
               </li>
               <li>
               Provided rapid and effective solutions to customer inquiries, addressing a wide range of issues and requests.
@@ -127,7 +115,7 @@ function Experience() {
                 Solder/repair broken devices including key fobs, battery packs, remote controls, etc.
               </li>
               <li>
-                Tested, diagnosed and installed vehicle and rv batteries.
+                Tested, diagnosed and installed Vehicle, RV and Solar batteries.
               </li>
             </ul>
           </div>
@@ -135,6 +123,7 @@ function Experience() {
             <span className="text-primary">August 2009 - December 2018</span>
           </div>
         </div>
+        {/* Lower portion removed due to lack of relevance and more than a decade ago */}
   {/* 
         <div className="resume-item d-flex flex-column flex-md-row mb-5">
           <div className="resume-content mr-auto">

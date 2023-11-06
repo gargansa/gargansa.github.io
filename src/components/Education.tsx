@@ -11,7 +11,7 @@ function Education() {
         <div className="resume-item d-flex flex-column flex-md-row mb-5">
           <div className="resume-content mr-auto">
             <h3 className="mb-0">Montana Code School</h3>
-            <div className="subheading mb-3">Bootcamp with strong focus in React, Adonis, Javascript, Git </div>
+            <div className="subheading mb-3">Bootcamp with strong focus in React, Javascript, Git, SQL.</div>
             <div>6 Months</div>
           </div>
           <div className="resume-date text-md-right">

@@ -16,12 +16,10 @@ function About() {
       </div>
       <p className="lead mb-5">
         <ul>
-          <li>3 years SQL Database Experience</li>
-          <li>5 years Technical Support Experience</li>
-          <li>Graduate of Montana Code School - March 2019</li>
-          <li>Previous computer science student at Montana State University.</li>
-          <li>Proficient in React, C#, Javascript, Python, BASH.</li>
-          <li>Designed a single player android game called Hexwordz.</li>
+          <li>Passionate problem solver with 3 years of SQL database experience, 5 years of technical support, and proficiency in React, C#, JavaScript, ASP, SQL, Python, and BASH.</li>
+          <li>Committed to delivering high-quality and efficient solutions. </li>
+          <li>Montana Code School graduate (March 2019) with a background in computer science.</li>
+          <li>Designed a single player Android game called Hexwordz.</li>
           <li>9 years retail experience at Batteries Plus Bulbs in device repair, batteries, lighting, management,
             employee training, and customer service.</li>
         </ul>
