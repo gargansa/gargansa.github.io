@@ -16,7 +16,7 @@ function About() {
       </div>
       <p className="lead mb-5">
         <ul>
-          <li>Passionate problem solver with 3 years of SQL database experience, 5 years of technical support, and proficiency in React, C#, JavaScript, ASP, SQL, Python, and BASH.</li>
+          <li>Passionate problem solver with 3 years of SQL database experience, 5 years of technical support experience. Proficiency in React, C#, JavaScript, ASP, SQL, Python, and BASH.</li>
           <li>Committed to delivering high-quality and efficient solutions. </li>
           <li>Montana Code School graduate (March 2019) with a background in computer science.</li>
           <li>Designed a single player Android game called Hexwordz.</li>

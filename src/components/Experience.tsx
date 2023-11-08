@@ -15,19 +15,19 @@ function Experience() {
             Main duties:
             <ul>
               <li>
-              Acted as the first point of contact for internal support requests, triaging and categorizing cases based on urgency and complexity.
+              Main point of contact for internal support requests, triaging and categorizing cases based on urgency and complexity.
               </li>
               <li>
               3 years of experience in creating, compiling, and analyzing SQL database reports for business and data analysis purposes.
               </li>
               <li>
-              Mentored an intern in best practices and optimization techniques for SQL.
+              Trained new full time employees as well as mentored an intern in best practices and optimization techniques for SQL.
               </li>
               <li>
               Comprehensive understanding of software development best practices, including version control, code review, and unit testing.
               </li>
               <li>
-              Three years of hands-on experience in developing web applications using React, C#, ASP.NET, and TypeScript.
+              Three years of hands-on experience in developing web applications using React, C#, Javascript, ASP, SQL.
               </li>
             </ul>
             Additional Roles:
@@ -77,7 +77,7 @@ function Experience() {
                 Subject matter expert for internal employee PC hardware/software issues.
               </li>
               <li>
-                Maintain/Improve documentation for commonly occurring issues.
+                Maintained and Improved documentation for recurring issues.
               </li>
             </ul>
           </div>
