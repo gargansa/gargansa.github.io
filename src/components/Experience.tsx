@@ -11,14 +11,14 @@ function Experience() {
         <div className="resume-item d-flex flex-column flex-md-row mb-5">
           <div className="resume-content mr-auto">
             <h3 className="mb-0">Programming Support Engineer</h3>
-            <div className="subheading mb-3">Printing For Less</div>
+            <div className="subheading mb-3">Printing For Less (Livingston, MT)</div>
             Main duties:
             <ul>
               <li>
               Main point of contact for internal support requests, triaging and categorizing cases based on urgency and complexity.
               </li>
               <li>
-              3 years of experience in creating, compiling, and analyzing SQL database reports for business and data analysis purposes.
+              3 years of experience in creating, compiling, and analysing SQL database reports for business and data analysis purposes.
               </li>
               <li>
               Trained new full time employees as well as mentored an intern in best practices and optimization techniques for SQL.
@@ -51,7 +51,7 @@ function Experience() {
         <div className="resume-item d-flex flex-column flex-md-row mb-5">
           <div className="resume-content mr-auto">
             <h3 className="mb-0">Tier II Support Technician</h3>
-            <div className="subheading mb-3">Zoot Enterprises</div>
+            <div className="subheading mb-3">Zoot Enterprises (Bozeman, MT)</div>
             Main duties:
             <ul>
               <li>
@@ -89,7 +89,7 @@ function Experience() {
         <div className="resume-item d-flex flex-column flex-md-row mb-5">
           <div className="resume-content mr-auto">
             <h3 className="mb-0">Assistant Manager</h3>
-            <div className="subheading mb-3">Batteries Plus Bulbs (Bozeman)</div>
+            <div className="subheading mb-3">Batteries Plus Bulbs (Bozeman, MT)</div>
             Main Duties:
             <ul>
               <li>
