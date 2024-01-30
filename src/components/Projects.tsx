@@ -2,6 +2,7 @@
 import Hexwordz from './Projects/Hexwordz'
 import Melt from './Projects/Melt'
 import RecursiveTree from './Projects/RecursiveTree'
+import FlyBox from './Projects/FlyBox'
 
 function Projects() {
   return (
@@ -16,6 +17,8 @@ function Projects() {
         <Melt/>
         <hr className="m-5"></hr>
         <RecursiveTree/>
+        <hr className="m-5"></hr>
+        <FlyBox/>
       </div>
     </section>
   </div>

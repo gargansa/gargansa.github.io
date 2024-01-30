@@ -44,7 +44,7 @@ render(){
             </ul>
           </li>
         </ul>
-        <BasicCarousel slides={this.state.slides} />
+        <BasicCarousel slides={this.state.slides} title={"3D PRINTS CREATED USING MELT."} />
 
     </div>
   )

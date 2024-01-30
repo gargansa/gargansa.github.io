@@ -105,7 +105,7 @@ function Experience() {
             Additional Roles:
             <ul>
               <li>
-                Head device repair technician, demoed repair steps for new employees, provided solutions for challenging
+                Head device repair technician, demonstrated repair steps for new employees, provided solutions for challenging
                 repairs.
               </li>
               <li>
